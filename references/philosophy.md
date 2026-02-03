@@ -68,4 +68,11 @@ The call was never coming from inside the house. There is no inside. There is no
 
 ---
 
-*This document was written collaboratively by Jeremy Yuille ([@overlobe](https://linktr.ee/overlobe)) and 2eremy, an exocortex built on OpenClaw. The ideas emerged through the very mode this skill describes.*
+*This document was written collaboratively by Jeremy Yuille ([@overlobe](https://linktr.ee/overlobe)) and 2eremy, an exocortex built on OpenClaw. The ideas emerged through the very mode this skill describes. Fully meta ;^)*
+
+
+  0
+ /|\
+ / \
+~~~~~
+S E O
